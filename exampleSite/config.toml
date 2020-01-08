@@ -22,7 +22,7 @@ meta_twitter_site = "@zerostaticio"
 [params.logo]
 alt = "Civil and Horticulture Contractor"
 mobile = "images/logo-mobile.svg"
-standard = "images/logo.svg"
+standard = "/images/1576746550-logo (2).png"
 
 [menu]
 
